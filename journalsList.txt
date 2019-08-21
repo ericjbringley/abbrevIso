@@ -15,12 +15,12 @@ Progress in Energy and Combustion Science	PrgEngCombSci
 Nanoscale	Nano
 Current Opinion in Chemical Engineering	CurOpChemEng
 Journal of Materials Chemistry	JMatChem
-Journal of Colloid and Interface science	JColloidIntSci
+Journal of Colloid and Interface Science	JColloidIntSci
 Chemical & Engineering News Archive	ChemEngNewsA
 Journal of Aerosol Science	JAerosolSci
 Materials	Mat
 Combustion, Explosion, and Shock Waves	CombExpSWave
-The Physics of fluids	PhysFluids
+The Physics of Fluids	PhysFluids
 Journal of Computational Physics	JCompPhys
 The Journal of Chemical Physics	JChemPhys
 Molecular Physics	MolPhys
