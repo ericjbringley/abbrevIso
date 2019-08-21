@@ -1,0 +1,28 @@
+Combustion and Flame	CNF
+Journal of Applied Physics	JApPhys
+Symposium (International) on Combustion	SIComb
+Combustion Science and Technology	CombSciTech
+Experiments in Fluids	ExpInFluids
+Applied Optics	AppOpt
+Proceedings of the Combustion Institute	ProCombInst
+Applied Physics B	ApPhys-B
+Energy and Fuel	EnFuel
+Journal of Fluid Mechanics	JFluidMech
+Optics Communications	OpComm
+Review of Scientific Instruments	RevSciInst
+Chinese Chemical Letters	ChiChemLet
+Progress in Energy and Combustion Science	PrgEngCombSci
+Nanoscale	Nano
+Current Opinion in Chemical Engineering	CurOpChemEng
+Journal of Materials Chemistry	JMatChem
+Journal of colloid and interface science	JColloidIntSci
+Chemical \& Engineering News Archive	ChemEngNewsA
+Journal of Aerosol Science	JAerosolSci
+Materials	Mat
+Combustion, Explosion, and Shock Waves	CombExpSWave
+The Physics of fluids	PhysFluids
+Journal of Computational Physics	JCompPhys
+The Journal of Chemical Physics	JChemPhys
+Molecular physics	MolPhys
+Physical Review E	PysRevE
+Industrial & Engineering Chemistry Research	IndEngChemRes
