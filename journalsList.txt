@@ -5,8 +5,8 @@ Combustion Science and Technology	CombSciTech
 Experiments in Fluids	ExpInFluids
 Applied Optics	AppOpt
 Proceedings of the Combustion Institute	ProCombInst
-Applied Physics B	ApPhys-B
-Energy and Fuel	EnFuel
+Applied Physics B	ApPhysB
+Energy \& Fuels	EnFuel
 Journal of Fluid Mechanics	JFluidMech
 Optics Communications	OpComm
 Review of Scientific Instruments	RevSciInst
@@ -24,5 +24,5 @@ The Physics of fluids	PhysFluids
 Journal of Computational Physics	JCompPhys
 The Journal of Chemical Physics	JChemPhys
 Molecular physics	MolPhys
-Physical Review E	PysRevE
-Industrial & Engineering Chemistry Research	IndEngChemRes
+Physical Review E	PhysRevE
+Industrial \& Engineering Chemistry Research	IndEngChemRes

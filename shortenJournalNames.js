@@ -19,7 +19,7 @@ let rl = readline.createInterface({
 
 
 let kywd1 = "@STRING{"
-let kywd3 = "     \"";
+let kywd3 = "    = \"";
 let kywd2 = "\"}\n"; 
 let line_no = 0;
 var stream = fs.createWriteStream("journalLong.bib", {flags:'w'});
