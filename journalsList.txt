@@ -6,7 +6,7 @@ Experiments in Fluids	ExpInFluids
 Applied Optics	AppOpt
 Proceedings of the Combustion Institute	ProCombInst
 Applied Physics B	ApPhysB
-Energy \& Fuels	EnFuel
+Energy & Fuels	EnFuel
 Journal of Fluid Mechanics	JFluidMech
 Optics Communications	OpComm
 Review of Scientific Instruments	RevSciInst
@@ -15,14 +15,14 @@ Progress in Energy and Combustion Science	PrgEngCombSci
 Nanoscale	Nano
 Current Opinion in Chemical Engineering	CurOpChemEng
 Journal of Materials Chemistry	JMatChem
-Journal of colloid and interface science	JColloidIntSci
-Chemical \& Engineering News Archive	ChemEngNewsA
+Journal of Colloid and Interface science	JColloidIntSci
+Chemical & Engineering News Archive	ChemEngNewsA
 Journal of Aerosol Science	JAerosolSci
 Materials	Mat
 Combustion, Explosion, and Shock Waves	CombExpSWave
 The Physics of fluids	PhysFluids
 Journal of Computational Physics	JCompPhys
 The Journal of Chemical Physics	JChemPhys
-Molecular physics	MolPhys
+Molecular Physics	MolPhys
 Physical Review E	PhysRevE
-Industrial \& Engineering Chemistry Research	IndEngChemRes
+Industrial & Engineering Chemistry Research	IndEngChemRes
