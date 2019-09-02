@@ -26,3 +26,4 @@ The Journal of Chemical Physics	JChemPhys
 Molecular Physics	MolPhys
 Physical Review E	PhysRevE
 Industrial & Engineering Chemistry Research	IndEngChemRes
+Combustion Theory and Modelling 	CombTheMod
