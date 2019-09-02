@@ -27,3 +27,4 @@ Molecular Physics	MolPhys
 Physical Review E	PhysRevE
 Industrial & Engineering Chemistry Research	IndEngChemRes
 Combustion Theory and Modelling	CombTheMod
+IMPACT of Computing in Science and Engineering	IMPACTCSE
