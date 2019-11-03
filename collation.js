@@ -12,7 +12,7 @@
  * Avoid using \W and \w, they match a nonsense range.
  * @type {RegExp}
  */
-export const boundariesRegex = /[-\s\u2013\u2014_.,:;!|=+*\\/'"()&#%@$?]/;
+export const boundariesRegex = /[-\s\u2013\u2014_.,:;!|=+*\\/"()&#%@$?]/;
 /**
  * A regex for matching line breaks, as per Unicode standards:
  * {@link http://www.unicode.org/reports/tr18/#Line_Boundaries}.
@@ -60,9 +60,7 @@ export function promiscuouslyNormalize(s) {
       .toLowerCase()
       .replace(new RegExp(boundariesRegex, 'g'), ' ')
       .replace(/\s+/gu, ' ').replace(/^\s/gu, '').replace(/\s$/gu, '')
-      .replace(/[^a-z\ ]/g, '')
-      .replace(/ss/g, 's')
-      .replace(/oe/g, 'o').replace(/ae/g, 'e')
+      .replace(/[^a-z\ ]/g, ' ')
       .replace(/kh/g, '').replace(/h/g, '');
 }
 
