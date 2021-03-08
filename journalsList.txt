@@ -5,8 +5,12 @@ Combustion Science and Technology	CombSciTech
 Experiments in Fluids	ExpInFluids
 Applied Optics	AppOpt
 Proceedings of the Combustion Institute	ProCombInst
+Journal of Physics	JPhys
+Journal of Physics A	JPhysA
+Journal of Physics B	JPhysB
 Applied Physics B	ApPhysB
-Energy & Fuels	EnFuel
+Energy and Fuels	EnFuel
+Energy	En
 Journal of Fluid Mechanics	JFluidMech
 Optics Communications	OpComm
 Review of Scientific Instruments	RevSciInst
@@ -16,18 +20,115 @@ Nanoscale	Nano
 Current Opinion in Chemical Engineering	CurOpChemEng
 Journal of Materials Chemistry	JMatChem
 Journal of Colloid and Interface Science	JColloidIntSci
-Chemical & Engineering News Archive	ChemEngNewsA
+Advances in Colloid and Interface Science	AdvColloidIntSci
+Chemical \& Engineering News Archive	ChemEngNewsA
 Journal of Aerosol Science	JAerosolSci
 Materials	Mat
 Combustion, Explosion, and Shock Waves	CombExpSWave
 The Physics of Fluids	PhysFluids
 Journal of Computational Physics	JCompPhys
 The Journal of Chemical Physics	JChemPhys
-Molecular Physics	MolPhys
-Physical Review E	PhysRevE
+Molecular physics	MolPhys
+Physical Review E	PysRevE
+Physical Review A	PysRevA
+Physical Review Letters	PysRevLet
 Industrial & Engineering Chemistry Research	IndEngChemRes
-Combustion Theory and Modelling	CombTheMod
-IMPACT of Computing in Science and Engineering	IMPACTCSE
-The International Journal of Supercomputer Applications and High Performance Computing	IntSupAppHPC
-Chemical Science	ChemSci
-Journal of Engineering for Gas Turbines and Power	JEngGasTP
+Combustion Theory and Modelling 	CombTheMod
+IMPACT of Computing in Science and Engineering  IMPACTCSE
+Computing in Science and Engineering	CompSciEng
+The International Journal of Supercomputer Applications and High Performance Computing    IntSupAppHPC
+Chemical Science    ChemSci
+Journal of Engineering for Gas Turbines and Power    JEngGasTP
+The Journal of Physical Chemistry	JPhsChem
+The Journal of Physical Chemistry A	JPhsChemA
+The Journal of Physical Chemistry B	JPhsChemB
+The Journal of Physical Chemistry C	JPhsChemC
+Aircraft Engineering and Aerospace Technology	AEAT
+Journal of Scientific Computing	JSciComp
+International Journal of Heat and Mass Transfer	IJHeatMass
+Aerosol Science and Technology	AerosolSciTech
+Powder Technology	PowTech
+Chemical Engineering Science	ChemEngSci
+AIChE Journal	AICHEJ
+Surface and Coatings Technology	SurfCoatTech
+ACS Sustainable Chemistry \& Engineering	ACSSusChemEng
+ACS Applied Energy Materials	ACSApEnMat
+Journal of Materials Science \& Technology	JMatSciTech
+Journal of the Atmospheric Sciences	JAtmSci
+Computers \& Chemical Engineering	CompChemEng
+Reaction Kinetics, Mechanisms and Catalysis	ReactKinMechCat
+SIAM Journal on Scientific Computing	SIAMJSciComp
+SIAM Journal on Numerical Analysis	SIAMJNumAn
+SIAM Journal on Applied Mathematics	SIAMJApMath
+Journal of Computational and Applied Mathematics	JCompApMath
+Annual Review of Chemical and Biomolecular Engineering	AnRevCheBioEng
+Annual Review of Fluid Mechanics	AnRevFluMech
+Chemical Physics Letters	ChemPhysLet
+Computers and Fluids	CompFluid
+Acta Astronautica	ActaAstr
+Acta Mechanica Sinica	ActaMechSin
+Fuel	Fuel
+International Journal of Chemical Kinetics	IJChemKin
+Experimental Thermal and Fluid Science	ExpThermFluidSci
+Journal of Propulsion and Power	JProPow
+Journal of Computational Science	JCompSci
+Journal of Fluids Engineering	JFluidsEng
+Journal of Nanoparticle Research	JNanoRes
+Chemical Vapor Deposition	ChemVapDep
+Journal of the Electrochemical Society	JElectroChemSoc
+Small Methods	SmMethod
+Journal of the American Statistical Association	JAmStatAssoc
+Central European Journal of Chemistry	CEuJChem
+Computer Physics Communications	CompPhysCom
+Computers in Physics	CompInPhys
+Journal of the Aeronautical Sciences	JAeroSci
+Journal of Wind Engineering and Industrial Aerodynamics	JWEngIndAero
+Progress in Aerospace Sciences	ProgAeroSci
+American Mineralogist	AmMin
+Journal of the American Ceramic Society	JAmCeramicSoc
+Journal of Crystal Growth	JCrysGrow
+Progress in Solid State Chemistry	ProgSStateChem
+Journal of Solid State Chemistry	JSStateChem
+Materials Research Bulletin	MatResBul
+Journal of the Indian Institute of Science	JInInstSci
+Journal of the Royal Aeronautical Society	JRoyAeroSoc
+Journal of Aircraft	JAircraft
+Nature	Nat
+Nature Methods	NatMeth
+Journal of Machine Learning Research	JMachineLearnRes
+Physica Scripta	PhysScript
+Science	Sci
+Journal of Materials Research	JMatRes
+Advanced Powder Technology	AdvPowTech
+Journal of Hazardous Materials	JHazMat
+Journal of Materials Science	JMatSci
+Acta Numerica	ActNum
+Advanced Materials	AdvMat
+Chemical Engineering Research and Design	ChemEngResDes
+Computers \& Mathematics with Applications	CompMathAppl
+Computer Methods in Applied Mechanics and Engineering	CompMethApMechEng
+AIAA Journal	AIAAJ
+The Annals of Applied Probability	AnApProb
+KONA Powder and Particle Journal	KONAPowPartJ
+Chemical Reviews	ChemRev
+International Journal of Thermal Sciences	IJThermSci
+Annals of Telecommunications	AnTele
+IEEE Journal of Solid-State Circuits	IEEEJSStateCirc
+Advanced Functional Materials	AdvFuncMat
+Proceedings of the National Academy of Sciences	ProcNatAcadSci
+Langmuir	Lang
+Chemistry Letters	ChemLet
+Materials Sciences and Applications	MatSciApp
+Probabilistic Engineering Mechanics	ProbEngMech
+Applied Mathematical Computing	AppMathComp
+Journal of Mathematical Physics	JMatPhys
+The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science	LEDPMagJSci
+Proceedings of the Royal Society A	ProcRoySocA
+Philosophical Transactions of the Royal Society A	PhilTranRoySocA
+Nanostructured Materials	NanoMat
+Journal of Vacuum Science \& Technology A	JVacSciTech
+Journal of Non-Crystalline Solids	JNCSolids
+Journal of Phase Equilibria and Diffusion	JPhaseEqDiff
+Journal of Sol-Gel Science and Technology	JSolGelSciTech
+Chemistry - A European Journal	ChemEuJ
+Biometrika	Biometrika
